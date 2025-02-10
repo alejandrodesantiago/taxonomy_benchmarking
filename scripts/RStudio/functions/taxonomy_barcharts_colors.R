@@ -1,0 +1,68 @@
+family_marine <- scale_fill_manual(values = c("#fff2ea","#77361d",
+                             "#14a2e9","#eae3c2",
+                             "#c1a98d","#c1a478", 
+                             "#afc7ea","#577a56",
+                             "#c0532c","#fd9bab",
+                             "#9e1c4e","#fed10a",
+                             "#ad7b7c","#387a61",
+                             "#e9d8df","#ffff0b",
+                             "#16b0ff","#e7608e",
+                             "#2c47c2","#e76c50",
+                             "#21ffff","#a4d8ea",
+                             "#f3f3d4","#a1ebea",
+                             "#fc7657","#8510c0",
+                             "#feddda","#46ef82",
+                             "#fff9ec","#6c6c6c"))
+
+family_soil <- scale_fill_manual(values = c("#e7232e","#a6c2c2",
+                             "#e9c009","#c0ff5d",
+                             "#d0951a","#a6ef2d", 
+                             "#a1ebea","#0000c2",
+                             "#fc7808","#445a23",
+                             "#1b79ff","#feca8a",
+                             "#fb00ff","#9ecfe0",
+                             "#afaa58","#a7eda5",
+                             "#447b42","#1eecea",
+                             "#577b1a","#772d24",
+                             "#cf53cc","#9e1c4e",
+                             "#6c6c6c"))
+
+order_marine <- scale_fill_manual(values = c("#14a2e9","#c1a98d",
+                                        "#c0532c","#577a56",
+                                        "#fd9bab","#772d24", 
+                                        "#afc7ea","#e9c009",
+                                        "#6c6c6c")) 
+
+order_soil <- scale_fill_manual(values = c("#14a2e9","#c1a98d",
+                                      "#8510c0","#fd9bab",
+                                      "#afc7ea","#772d24", 
+                                      "#2c47c2","#9e1c4e",
+                                      "#6c6c6c", "#000000")) 
+
+genus_marine <- scale_fill_manual(values = c("#fff2ea","#fb0081",
+                                       "#14a2e9","#eae3c2",
+                                       "#c1a98d","#c1a478", 
+                                       "#afc7ea","#577a56",
+                                       "#c0532c","#fd9bab",
+                                       "#9e1c4e","#fed10a",
+                                       "#ad7b7c","#387a61",
+                                       "#e9d8df","#ffff0b",
+                                       "#16b0ff","#e7608e",
+                                       "#2c47c2","#e76c50",
+                                       "#21ffff","#a4d8ea",
+                                       "#f3f3d4","#a1ebea",
+                                       "#fc7657","#8510c0",
+                                       "#6c6c6c","black"))
+
+genus_soil <- scale_fill_manual(values = c("#e7232e","#a6c2c2",
+                                            "#e9c009","#c0ff5d",
+                                            "#d0951a","#a6ef2d", 
+                                            "#a1ebea","#0000c2",
+                                            "#fc7808","#445a23",
+                                            "#1b79ff","#feca8a",
+                                            "#fb00ff","#9ecfe0",
+                                            "#afaa58","#a7eda5",
+                                            "#447b42","#1eecea",
+                                            "#577b1a","#772d24",
+                                            "#6c6c6c", "black"))
+
