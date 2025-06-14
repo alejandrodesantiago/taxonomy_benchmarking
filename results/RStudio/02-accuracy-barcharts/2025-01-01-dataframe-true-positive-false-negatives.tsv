@@ -1,0 +1,133 @@
+category	rank	environment	method	n	tool	database
+Correct	Genus	Marine	blast.1.90	80	Blast	Database 2
+Correct	Genus	Marine	blast.1.90	80	Blast	Database 5
+Correct	Genus	Marine	blast.1.90	118	Blast	Database 1
+Correct	Genus	Marine	blast.1.90	131	Blast	NA
+Correct	Genus	Marine	blast.1.95	58	Blast	Database 2
+Correct	Genus	Marine	blast.1.95	58	Blast	Database 5
+Correct	Genus	Marine	blast.1.95	97	Blast	Database 1
+Correct	Genus	Marine	blast.1.95	111	Blast	NA
+Correct	Genus	Marine	blast.1.99	10	Blast	Database 2
+Correct	Genus	Marine	blast.1.99	10	Blast	Database 5
+Correct	Genus	Marine	blast.1.99	29	Blast	Database 1
+Correct	Genus	Marine	blast.1.99	38	Blast	NA
+Correct	Genus	Marine	blast.10.95	10	Blast	Database 2
+Correct	Genus	Marine	blast.10.95	12	Blast	Database 1
+Correct	Genus	Marine	blast.10.95	44	Blast	Database 5
+Correct	Genus	Marine	blast.10.95	90	Blast	NA
+Correct	Genus	Marine	blast.3.90	17	Blast	Database 1
+Correct	Genus	Marine	blast.3.90	33	Blast	Database 2
+Correct	Genus	Marine	blast.3.90	85	Blast	Database 5
+Correct	Genus	Marine	blast.3.90	108	Blast	NA
+Correct	Genus	Marine	naive.70	51	Naive Bayes	Database 1
+Correct	Genus	Marine	naive.70	79	Naive Bayes	Database 2
+Correct	Genus	Marine	naive.70	81	Naive Bayes	Database 5
+Correct	Genus	Marine	naive.70	103	Naive Bayes	NA
+Correct	Genus	Marine	naive.70	117	Naive Bayes	NA
+Correct	Genus	Marine	naive.80	35	Naive Bayes	Database 1
+Correct	Genus	Marine	naive.80	70	Naive Bayes	Database 2
+Correct	Genus	Marine	naive.80	78	Naive Bayes	Database 5
+Correct	Genus	Marine	naive.80	98	Naive Bayes	NA
+Correct	Genus	Marine	naive.80	106	Naive Bayes	NA
+Correct	Genus	Marine	naive.90	21	Naive Bayes	Database 1
+Correct	Genus	Marine	naive.90	55	Naive Bayes	Database 2
+Correct	Genus	Marine	naive.90	69	Naive Bayes	Database 5
+Correct	Genus	Marine	naive.90	93	Naive Bayes	NA
+Correct	Genus	Marine	naive.90	99	Naive Bayes	NA
+Correct	Genus	Terrestrial	blast.1.90	46	Blast	Database 1
+Correct	Genus	Terrestrial	blast.1.90	50	Blast	Database 2
+Correct	Genus	Terrestrial	blast.1.90	50	Blast	Database 5
+Correct	Genus	Terrestrial	blast.1.90	62	Blast	NA
+Correct	Genus	Terrestrial	blast.1.95	45	Blast	Database 1
+Correct	Genus	Terrestrial	blast.1.95	48	Blast	Database 2
+Correct	Genus	Terrestrial	blast.1.95	48	Blast	Database 5
+Correct	Genus	Terrestrial	blast.1.95	60	Blast	NA
+Correct	Genus	Terrestrial	blast.1.99	35	Blast	Database 5
+Correct	Genus	Terrestrial	blast.1.99	36	Blast	Database 1
+Correct	Genus	Terrestrial	blast.1.99	36	Blast	Database 2
+Correct	Genus	Terrestrial	blast.1.99	45	Blast	NA
+Correct	Genus	Terrestrial	blast.10.95	2	Blast	Database 2
+Correct	Genus	Terrestrial	blast.10.95	10	Blast	Database 1
+Correct	Genus	Terrestrial	blast.10.95	13	Blast	Database 5
+Correct	Genus	Terrestrial	blast.3.90	10	Blast	Database 2
+Correct	Genus	Terrestrial	blast.3.90	18	Blast	Database 1
+Correct	Genus	Terrestrial	blast.3.90	33	Blast	NA
+Correct	Genus	Terrestrial	blast.3.90	35	Blast	Database 5
+Correct	Genus	Terrestrial	naive.70	16	Naive Bayes	Database 2
+Correct	Genus	Terrestrial	naive.70	18	Naive Bayes	Database 1
+Correct	Genus	Terrestrial	naive.70	36	Naive Bayes	Database 5
+Correct	Genus	Terrestrial	naive.70	44	Naive Bayes	NA
+Correct	Genus	Terrestrial	naive.80	12	Naive Bayes	Database 2
+Correct	Genus	Terrestrial	naive.80	13	Naive Bayes	Database 1
+Correct	Genus	Terrestrial	naive.80	33	Naive Bayes	Database 5
+Correct	Genus	Terrestrial	naive.80	43	Naive Bayes	NA
+Correct	Genus	Terrestrial	naive.90	10	Naive Bayes	Database 2
+Correct	Genus	Terrestrial	naive.90	12	Naive Bayes	Database 1
+Correct	Genus	Terrestrial	naive.90	26	Naive Bayes	Database 5
+Correct	Genus	Terrestrial	naive.90	33	Naive Bayes	NA
+Correct	Genus	Terrestrial	naive.90	37	Naive Bayes	NA
+Misassignment	Genus	Marine	blast.1.90	56	Blast	Database 2
+Misassignment	Genus	Marine	blast.1.90	56	Blast	Database 5
+Misassignment	Genus	Marine	blast.1.90	59	Blast	Database 1
+Misassignment	Genus	Marine	blast.1.90	69	Blast	NA
+Misassignment	Genus	Marine	blast.1.95	34	Blast	Database 2
+Misassignment	Genus	Marine	blast.1.95	34	Blast	Database 5
+Misassignment	Genus	Marine	blast.1.95	36	Blast	Database 1
+Misassignment	Genus	Marine	blast.1.95	49	Blast	NA
+Misassignment	Genus	Marine	blast.1.99	5	Blast	Database 2
+Misassignment	Genus	Marine	blast.1.99	5	Blast	Database 5
+Misassignment	Genus	Marine	blast.1.99	6	Blast	Database 1
+Misassignment	Genus	Marine	blast.1.99	8	Blast	NA
+Misassignment	Genus	Marine	blast.10.95	15	Blast	Database 1
+Misassignment	Genus	Marine	blast.10.95	22	Blast	Database 2
+Misassignment	Genus	Marine	blast.10.95	26	Blast	NA
+Misassignment	Genus	Marine	blast.10.95	28	Blast	Database 5
+Misassignment	Genus	Marine	blast.3.90	12	Blast	Database 2
+Misassignment	Genus	Marine	blast.3.90	12	Blast	Database 1
+Misassignment	Genus	Marine	blast.3.90	31	Blast	Database 5
+Misassignment	Genus	Marine	blast.3.90	53	Blast	NA
+Misassignment	Genus	Marine	naive.70	24	Naive Bayes	Database 1
+Misassignment	Genus	Marine	naive.70	31	Naive Bayes	Database 2
+Misassignment	Genus	Marine	naive.70	31	Naive Bayes	Database 5
+Misassignment	Genus	Marine	naive.70	53	Naive Bayes	NA
+Misassignment	Genus	Marine	naive.70	57	Naive Bayes	NA
+Misassignment	Genus	Marine	naive.80	16	Naive Bayes	Database 1
+Misassignment	Genus	Marine	naive.80	26	Naive Bayes	Database 5
+Misassignment	Genus	Marine	naive.80	26	Naive Bayes	Database 2
+Misassignment	Genus	Marine	naive.80	47	Naive Bayes	NA
+Misassignment	Genus	Marine	naive.80	49	Naive Bayes	NA
+Misassignment	Genus	Marine	naive.90	9	Naive Bayes	Database 1
+Misassignment	Genus	Marine	naive.90	18	Naive Bayes	Database 5
+Misassignment	Genus	Marine	naive.90	18	Naive Bayes	Database 2
+Misassignment	Genus	Marine	naive.90	36	Naive Bayes	NA
+Misassignment	Genus	Marine	naive.90	43	Naive Bayes	NA
+Misassignment	Genus	Terrestrial	blast.1.90	24	Blast	Database 2
+Misassignment	Genus	Terrestrial	blast.1.90	26	Blast	Database 1
+Misassignment	Genus	Terrestrial	blast.1.90	26	Blast	Database 5
+Misassignment	Genus	Terrestrial	blast.1.95	21	Blast	Database 2
+Misassignment	Genus	Terrestrial	blast.1.95	22	Blast	Database 1
+Misassignment	Genus	Terrestrial	blast.1.95	23	Blast	Database 5
+Misassignment	Genus	Terrestrial	blast.1.99	3	Blast	Database 2
+Misassignment	Genus	Terrestrial	blast.1.99	4	Blast	Database 5
+Misassignment	Genus	Terrestrial	blast.1.99	5	Blast	Database 1
+Misassignment	Genus	Terrestrial	blast.10.95	1	Blast	Database 2
+Misassignment	Genus	Terrestrial	blast.10.95	5	Blast	Database 5
+Misassignment	Genus	Terrestrial	blast.10.95	5	Blast	Database 1
+Misassignment	Genus	Terrestrial	blast.3.90	0	Blast	Database 2
+Misassignment	Genus	Terrestrial	blast.3.90	12	Blast	Database 1
+Misassignment	Genus	Terrestrial	blast.3.90	26	Blast	Database 5
+Misassignment	Genus	Terrestrial	naive.70	1	Naive Bayes	Database 1
+Misassignment	Genus	Terrestrial	naive.70	3	Naive Bayes	Database 2
+Misassignment	Genus	Terrestrial	naive.70	8	Naive Bayes	Database 5
+Misassignment	Genus	Terrestrial	naive.70	11	Naive Bayes	NA
+Misassignment	Genus	Terrestrial	naive.70	12	Naive Bayes	NA
+Misassignment	Genus	Terrestrial	naive.80	1	Naive Bayes	Database 1
+Misassignment	Genus	Terrestrial	naive.80	2	Naive Bayes	Database 2
+Misassignment	Genus	Terrestrial	naive.80	4	Naive Bayes	Database 5
+Misassignment	Genus	Terrestrial	naive.80	7	Naive Bayes	NA
+Misassignment	Genus	Terrestrial	naive.80	8	Naive Bayes	NA
+Misassignment	Genus	Terrestrial	naive.90	1	Naive Bayes	Database 1
+Misassignment	Genus	Terrestrial	naive.90	1	Naive Bayes	Database 5
+Misassignment	Genus	Terrestrial	naive.90	2	Naive Bayes	Database 2
+Misassignment	Genus	Terrestrial	naive.90	4	Naive Bayes	NA
+Misassignment	Genus	Terrestrial	naive.90	5	Naive Bayes	NA

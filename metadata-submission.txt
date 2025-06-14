@@ -1,0 +1,279 @@
+Sequence_ID	Organism	 geo_loc_name	collection-date	isolate	lat_lon
+BOBA.178	Acanthonchus 	"USA: Bodega Bay, California "	18-Jul	BOBA.178	38.31007 N 123.058875 W
+SIMON.AH1	Aegialoalaimus 	UK: Thames Estuary	8-Jun	SIMON.AH1	51.4812667 N 0.64655 E
+SIMON.SLH2	Aegialoalaimus 	UK: Thames Estuary	8-Jun	SIMON.SLH2	51.5057667 N 0.457583333333333 E
+SIMON.XN1	Anoplostoma viviparum	UK: Thames Estuary	8-Jun	SIMON.XN1	51.51265 N 0.131283333333333 E
+SIMON.B4	Anoplostoma viviparum	UK: Thames Estuary	8-Jun	SIMON.B4	51.5145667 N 0.0914833333333333 E
+SIMON.B6	Anoplostoma viviparum	UK: Thames Estuary	8-Jun	SIMON.B6	51.5145667 N 0.0914833333333333 E
+BOBA.103	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.103	38.319106 N 123.054695 W
+BOBA.111	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.111	38.319106 N 123.054695 W
+BOBA.115	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.115	38.319106 N 123.054695 W
+BOBA.120	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.120	38.319106 N 123.054695 W
+BOBA.128	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.128	38.319106 N 123.054695 W
+BOBA.150	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.150	38.319106 N 123.054695 W
+BOBA.411	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.411	38.319106 N 123.054695 W
+BOBA.312	Anticoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.312	38.33345 N 123.059407 W
+SIMON.RF12	Aponema 	UK: Mersey Estuary	8-Jul	SIMON.RF12	53.3700972 N 2.9944694444444444 W
+SIMON.EB3	Ascolaimus elongatus	UK: Mersey Estuary	8-Jul	SIMON.EB3	53.3215833 N 2.93981666666666 W
+SIMON.EG7	Atrochromadora 	UK: Mersey Estuary	8-Jul	SIMON.EG7	53.4190361 N 3.02308888888888 W
+SIMON.CF10	Axonolaimus paraspinosus	UK: Thames Estuary	8-Jun	SIMON.CF10	51.4598639 N 0.431683333333333 E
+BOBA.116	Calyptronema 	"USA: Bodega Bay, California "	18-Jul	BOBA.116	38.319106 N 123.054695 W
+BOBA.130	Calyptronema 	"USA: Bodega Bay, California "	18-Jul	BOBA.130	38.319106 N 123.054695 W
+BOBA.145	Calyptronema 	"USA: Bodega Bay, California "	18-Jul	BOBA.145	38.319106 N 123.054695 W
+BOBA.158	Calyptronema 	"USA: Bodega Bay, California "	18-Jul	BOBA.158	38.319106 N 123.054695 W
+BOBA.224	Camacolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.224	38.31007 N 123.058875 W
+BOBA.240	Camacolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.240	38.31007 N 123.058875 W
+SIMON.RF10	Chromadora macrolaima	UK: Mersey Estuary	8-Jul	SIMON.RF10	53.3700972 N 2.9944694444444444 W
+HB.NPRB.nem.100	Chromadoridae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.100	71.2502 N 150.0835 W
+HB.NPRB.nem.111	Chromadoridae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.111	71.2502 N 150.0835 W
+HB.NPRB.nem.138	Chromadoridae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.138	71.2502 N 150.0835 W
+SIMON.SBC4	Chromadorita 	UK: Thames Estuary	8-Jun	SIMON.SBC4	51.5069667 N 0.117266666666666 E
+SIMON.RC4	Chromadorita 	UK: Mersey Estuary	8-Jul	SIMON.RC4	53.3476833 N 2.73413333333333 W
+HB.NPRB.nem.15	Chromadorita 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.15	71.2301 N 150.0835 W
+HB.NPRB.nem.36	Chromadorita 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.36	71.2301 N 150.0835 W
+HB.NPRB.nem.9	Comesomatidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.9	71.2301 N 150.0835 W
+HB.NPRB.nem.129	Comesomatidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.129	71.2502 N 150.0835 W
+HB.NPRB.nem.139	Comesomatidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.139	71.2502 N 150.0835 W
+BOBA.415	Daptonema 	"USA: Bodega Bay, California "	18-Jul	BOBA.415	38.319106 N 123.054695 W
+SIMON.WT1	Daptonema 	UK: Thames Estuary	8-Jun	SIMON.WT1	51.4678472 N 0.290622222222222 E
+SIMON.HB3	Daptonema 	UK: Thames Estuary	8-Jun	SIMON.HB3	51.4875667 N 0.2304 W
+SIMON.CB14	Daptonema 	UK: Thames Estuary	8-Jun	SIMON.CB14	51.5114167 N 0.594533333333333 E
+SIMON.XN4	Daptonema 	UK: Thames Estuary	8-Jun	SIMON.XN4	51.51265 N 0.131283333333333 E
+SIMON.B1	Daptonema 	UK: Thames Estuary	8-Jun	SIMON.B1	51.5145667 N 0.0914833333333333 E
+SIMON.HH1	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.HH1	53.3109667 N 2.79513333333333 W
+SIMON.EB4	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.EB4	53.3215833 N 2.93981666666666 W
+SIMON.EB5	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.EB5	53.3215833 N 2.93981666666666 W
+SIMON.LA2	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.LA2	53.3266 N 2.85985 W
+SIMON.LA7	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.LA7	53.3266 N 2.85985 W
+SIMON.EH3	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.EH3	53.3278917 N 2.7786 W
+SIMON.EH4	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.EH4	53.3278917 N 2.7786 W
+SIMON.RC1	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.RC1	53.3476833 N 2.73413333333333 W
+SIMON.RC2	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.RC2	53.3476833 N 2.73413333333333 W
+SIMON.RF8	Daptonema 	UK: Mersey Estuary	8-Jul	SIMON.RF8	53.3700972 N 2.9944694444444444 W
+SIMON.EH2	Daptonema hirsutum	UK: Mersey Estuary	8-Jul	SIMON.EH2	53.3278917 N 2.7786 W
+SIMON.AH8	Daptonema normandicum	UK: Thames Estuary	8-Jun	SIMON.AH8	51.4812667 N 0.64655 E
+SIMON.CB16	Daptonema normandicum	UK: Thames Estuary	8-Jun	SIMON.CB16	51.5114167 N 0.594533333333333 E
+SIMON.SN6	Daptonema normandicum	UK: Thames Estuary	8-Jun	SIMON.SN6	51.5278667 N 0.812116666666666 E
+SIMON.RF11	Daptonema normandicum	UK: Mersey Estuary	8-Jul	SIMON.RF11	53.3700972 N 2.9944694444444444 W
+SIMON.CF13	Daptonema oxycerca	UK: Thames Estuary	8-Jun	SIMON.CF13	51.4598639 N 0.431683333333333 E
+SIMON.CB18	Daptonema oxycerca	UK: Thames Estuary	8-Jun	SIMON.CB18	51.5114167 N 0.594533333333333 E
+SIMON.B8	Daptonema oxycerca	UK: Thames Estuary	8-Jun	SIMON.B8	51.5145667 N 0.0914833333333333 E
+SIMON.CF2	Daptonema procerum	UK: Thames Estuary	8-Jun	SIMON.CF2	51.4598639 N 0.431683333333333 E
+SIMON.CF6	Daptonema procerum	UK: Thames Estuary	8-Jun	SIMON.CF6	51.4598639 N 0.431683333333333 E
+SIMON.CB17	Daptonema procerum	UK: Thames Estuary	8-Jun	SIMON.CB17	51.5114167 N 0.594533333333333 E
+SIMON.RF7	Daptonema tenuispiculum	UK: Mersey Estuary	8-Jul	SIMON.RF7	53.3700972 N 2.9944694444444444 W
+SIMON.FF3	Daptonema vicinum	UK: Mersey Estuary	8-Jul	SIMON.FF3	53.37285 N 2.66131666666666 W
+SIMON.FF4	Daptonema vicinum	UK: Mersey Estuary	8-Jul	SIMON.FF4	53.37285 N 2.66131666666666 W
+BOBA.209	Desmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.209	38.31007 N 123.058875 W
+BOBA.243	Desmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.243	38.31007 N 123.058875 W
+BOBA.309	Desmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.309	38.33345 N 123.059407 W
+BOBA.342	Desmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.342	38.33345 N 123.059407 W
+BOBA.351	Desmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.351	38.33345 N 123.059407 W
+BOBA.480	Desmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.480	38.33345 N 123.059407 W
+HB.NPRB.nem.31	Desmoscolecidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.31	71.2301 N 150.0835 W
+HB.NPRB.nem.45	Desmoscolecidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.45	71.2301 N 150.0835 W
+HB.NPRB.nem.46	Desmoscolecidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.46	71.2301 N 150.0835 W
+HB.NPRB.nem.48	Desmoscolecidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.48	71.2301 N 150.0835 W
+HB.NPRB.nem.57	Desmoscolecidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.57	71.2301 N 150.0835 W
+HB.NPRB.nem.151	Desmoscolecidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.151	71.2835 N 150.0835 W
+HB.NPRB.nem.153	Desmoscolecidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.153	71.2835 N 150.0835 W
+HB.NPRB.nem.13	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.13	71.2301 N 150.0835 W
+HB.NPRB.nem.18	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.18	71.2301 N 150.0835 W
+HB.NPRB.nem.26	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.26	71.2301 N 150.0835 W
+HB.NPRB.nem.40	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.40	71.2301 N 150.0835 W
+HB.NPRB.nem.43	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.43	71.2301 N 150.0835 W
+HB.NPRB.nem.44	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.44	71.2301 N 150.0835 W
+HB.NPRB.nem.69	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.69	71.2301 N 150.0835 W
+HB.NPRB.nem.77	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.77	71.2502 N 150.0835 W
+HB.NPRB.nem.162	Dichromadora	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.162	71.2835 N 150.0835 W
+SIMON.OI8	Dichromadora 	UK: Thames Estuary	8-Jun	SIMON.OI8	51.4708167 N 0.319933333333333 E
+SIMON.EH5	Dichromadora 	UK: Mersey Estuary	8-Jul	SIMON.EH5	53.3278917 N 2.7786 W
+SIMON.WW4	Dichromadora geophila	UK: Thames Estuary	8-Jun	SIMON.WW4	51.4949 N 0.0511333333333333 E
+SIMON.WW5	Dichromadora geophila	UK: Thames Estuary	8-Jun	SIMON.WW5	51.4949 N 0.0511333333333333 E
+SIMON.WW6	Dichromadora geophila	UK: Thames Estuary	8-Jun	SIMON.WW6	51.4949 N 0.0511333333333333 E
+SIMON.XN3	Dichromadora geophila	UK: Thames Estuary	8-Jun	SIMON.XN3	51.51265 N 0.131283333333333 E
+SIMON.K5	Diplolaimella 	UK: Thames Estuary	8-Jun	SIMON.K5	51.4875 N 0.287116666666666 W
+BOBA.168	Dorylaimopsis 	"USA: Bodega Bay, California "	18-Jul	BOBA.168	38.31007 N 123.058875 W
+BOBA.185	Dorylaimopsis 	"USA: Bodega Bay, California "	18-Jul	BOBA.185	38.31007 N 123.058875 W
+BOBA.260	Dorylaimopsis 	"USA: Bodega Bay, California "	18-Jul	BOBA.260	38.31007 N 123.058875 W
+BOBA.390	Dorylaimopsis 	"USA: Bodega Bay, California "	18-Jul	BOBA.390	38.33345 N 123.059407 W
+BOBA.494	Dorylaimopsis 	"USA: Bodega Bay, California "	18-Jul	BOBA.494	38.33345 N 123.059407 W
+BOBA.497	Dorylaimopsis 	"USA: Bodega Bay, California "	18-Jul	BOBA.497	38.33345 N 123.059407 W
+SIMON.SN5	Enoploides longispiculosus 	UK: Thames Estuary	8-Jun	SIMON.SN5	51.5278667 N 0.812116666666666 E
+SIMON.TN4	Enoploides longispiculosus 	UK: Mersey Estuary	8-Jul	SIMON.TN4	53.4422861 N 3.03710555555555 W
+BOBA.124	Epacanthion 	"USA: Bodega Bay, California "	18-Jul	BOBA.124	38.319106 N 123.054695 W
+BOBA.147	Epacanthion 	"USA: Bodega Bay, California "	18-Jul	BOBA.147	38.319106 N 123.054695 W
+BOBA.403	Epacanthion 	"USA: Bodega Bay, California "	18-Jul	BOBA.403	38.319106 N 123.054695 W
+BOBA.405	Epacanthion 	"USA: Bodega Bay, California "	18-Jul	BOBA.405	38.319106 N 123.054695 W
+BOBA.412	Epacanthion 	"USA: Bodega Bay, California "	18-Jul	BOBA.412	38.319106 N 123.054695 W
+BOBA.416	Epacanthion 	"USA: Bodega Bay, California "	18-Jul	BOBA.416	38.319106 N 123.054695 W
+BOBA.418	Epacanthion 	"USA: Bodega Bay, California "	18-Jul	BOBA.418	38.319106 N 123.054695 W
+SIMON.CP2	Eumonhystera 	UK: Thames Estuary	8-Jun	SIMON.CP2	51.4834472 N 0.165113888888888 E
+SIMON.GW1	Eumonhystera 	UK: Thames Estuary	8-Jun	SIMON.GW1	51.4845667 N 0.00533333333333333 W
+HB.NPRB.nem.35	Halalaimus 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.35	71.2301 N 150.0835 W
+SIMON.CF9	Halalaimus gracilis	UK: Thames Estuary	8-Jun	SIMON.CF9	51.4598639 N 0.431683333333333 E
+BOBA.365	Halichoanolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.365	38.33345 N 123.059407 W
+BOBA.207	Hypodontolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.207	38.31007 N 123.058875 W
+BOBA.248	Hypodontolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.248	38.31007 N 123.058875 W
+BOBA.259	Hypodontolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.259	38.31007 N 123.058875 W
+BOBA.267	Hypodontolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.267	38.31007 N 123.058875 W
+BOBA.501	Hypodontolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.501	38.33345 N 123.059407 W
+HB.NPRB.nem.12	Leptolaimus 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.12	71.2301 N 150.0835 W
+HB.NPRB.nem.60	Linhomoeidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.60	71.2301 N 150.0835 W
+HB.NPRB.nem.64	Linhomoeidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.64	71.2301 N 150.0835 W
+HB.NPRB.nem.71	Linhomoeidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.71	71.2301 N 150.0835 W
+HB.NPRB.nem.8	Linhomoeidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.8	71.2301 N 150.0835 W
+HB.NPRB.nem.157	Linhomoeidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.157	71.2835 N 150.0835 W
+BOBA.223	Marylynnia	"USA: Bodega Bay, California "	18-Jul	BOBA.223	38.31007 N 123.058875 W
+BOBA.377	Marylynnia	"USA: Bodega Bay, California "	18-Jul	BOBA.377	38.33345 N 123.059407 W
+BOBA.510	Marylynnia	"USA: Bodega Bay, California "	18-Jul	BOBA.510	38.33345 N 123.059407 W
+BOBA.173	Megadesmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.173	38.31007 N 123.058875 W
+BOBA.179	Megadesmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.179	38.31007 N 123.058875 W
+BOBA.181	Megadesmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.181	38.31007 N 123.058875 W
+BOBA.205	Megadesmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.205	38.31007 N 123.058875 W
+BOBA.345	Megadesmolaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.345	38.33345 N 123.059407 W
+SIMON.SLH8	Metachromadora remanei	UK: Thames Estuary	8-Jun	SIMON.SLH8	51.5057667 N 0.457583333333333 E
+BOBA.439	Metacomesoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.439	38.319106 N 123.054695 W
+SIMON.EH1	Metadesmolaimus 	UK: Mersey Estuary	8-Jul	SIMON.EH1	53.3278917 N 2.7786 W
+BOBA.184	Metalinhomoeus 	"USA: Bodega Bay, California "	18-Jul	BOBA.184	38.31007 N 123.058875 W
+BOBA.225	Metalinhomoeus 	"USA: Bodega Bay, California "	18-Jul	BOBA.225	38.31007 N 123.058875 W
+BOBA.258	Metalinhomoeus 	"USA: Bodega Bay, California "	18-Jul	BOBA.258	38.31007 N 123.058875 W
+BOBA.438	Metalinhomoeus 	"USA: Bodega Bay, California "	18-Jul	BOBA.438	38.319106 N 123.054695 W
+BOBA.286	Metalinhomoeus 	"USA: Bodega Bay, California "	18-Jul	BOBA.286	38.33345 N 123.059407 W
+SIMON.RF9	Metalinhomoeus 	UK: Mersey Estuary	8-Jul	SIMON.RF9	53.3700972 N 2.9944694444444444 W
+BOBA.313	Metaparoncholaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.313	38.33345 N 123.059407 W
+SIMON.SLH7	Molgolaimus 	UK: Thames Estuary	8-Jun	SIMON.SLH7	51.5057667 N 0.457583333333333 E
+SIMON.LA5	Monhystera 	UK: Mersey Estuary	8-Jul	SIMON.LA5	53.3266 N 2.85985 W
+SIMON.GV4	Monhystrella 	UK: Thames Estuary	8-Jun	SIMON.GV4	51.44535 N 0.370033333333333 E
+SIMON.WW1	Monhystrella 	UK: Thames Estuary	8-Jun	SIMON.WW1	51.4949 N 0.0511333333333333 E
+SIMON.RC6	Monhystrella 	UK: Mersey Estuary	8-Jul	SIMON.RC6	53.3476833 N 2.73413333333333 W
+SIMON.SN2	Odontophora longisetosa	UK: Thames Estuary	8-Jun	SIMON.SN2	51.5278667 N 0.812116666666666 E
+BOBA.127	Oncholaimus 	"USA: Bodega Bay, California "	18-Jul	BOBA.127	38.319106 N 123.054695 W
+SIMON.CB9	Oxystomina 	UK: Thames Estuary	8-Jun	SIMON.CB9	51.5114167 N 0.594533333333333 E
+HB.NPRB.nem.3	Oxystominidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.3	71.2301 N 150.0835 W
+HB.NPRB.nem.47	Oxystominidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.47	71.2301 N 150.0835 W
+HB.NPRB.nem.49	Oxystominidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.49	71.2301 N 150.0835 W
+HB.NPRB.nem.55	Oxystominidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.55	71.2301 N 150.0835 W
+HB.NPRB.nem.7	Oxystominidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.7	71.2301 N 150.0835 W
+BOBA.215	Paracanthonchus 	"USA: Bodega Bay, California "	18-Jul	BOBA.215	38.31007 N 123.058875 W
+BOBA.359	Paracanthonchus 	"USA: Bodega Bay, California "	18-Jul	BOBA.359	38.33345 N 123.059407 W
+BOBA.392	Paralinhomoeus 	"USA: Bodega Bay, California "	18-Jul	BOBA.392	38.33345 N 123.059407 W
+SIMON.TN5	Promonhystera albigensis	UK: Mersey Estuary	8-Jul	SIMON.TN5	53.4422861 N 3.03710555555555 W
+BOBA.488	Phanoderma 	"USA: Bodega Bay, California "	18-Jul	BOBA.488	38.33345 N 123.059407 W
+SIMON.T4	Plectus 	UK: Thames Estuary	8-Jun	SIMON.T4	51.4304167 N 0.32175 W
+BOBA.398	Pomponema 	"USA: Bodega Bay, California "	18-Jul	BOBA.398	38.33345 N 123.059407 W
+BOBA.257	Promonhystera 	"USA: Bodega Bay, California "	18-Jul	BOBA.257	38.31007 N 123.058875 W
+SIMON.AH10	Ptycholaimellus ponticus	UK: Thames Estuary	8-Jun	SIMON.AH10	51.4812667 N 0.64655 E
+BOBA.106	Rhabdocoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.106	38.319106 N 123.054695 W
+SIMON.TN1	Rhynchonema 	UK: Mersey Estuary	8-Jul	SIMON.TN1	53.4422861 N 3.03710555555555 W
+SIMON.TN13	Sabatieria	UK: Mersey Estuary	8-Jul	SIMON.TN13	53.4422861 N 3.03710555555555 W
+BOBA.177	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.177	38.31007 N 123.058875 W
+BOBA.193	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.193	38.31007 N 123.058875 W
+BOBA.206	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.206	38.31007 N 123.058875 W
+BOBA.208	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.208	38.31007 N 123.058875 W
+BOBA.213	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.213	38.31007 N 123.058875 W
+BOBA.217	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.217	38.31007 N 123.058875 W
+BOBA.218	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.218	38.31007 N 123.058875 W
+BOBA.219	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.219	38.31007 N 123.058875 W
+BOBA.222	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.222	38.31007 N 123.058875 W
+BOBA.237	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.237	38.31007 N 123.058875 W
+BOBA.239	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.239	38.31007 N 123.058875 W
+BOBA.266	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.266	38.31007 N 123.058875 W
+BOBA.141	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.141	38.319106 N 123.054695 W
+BOBA.159	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.159	38.319106 N 123.054695 W
+BOBA.404	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.404	38.319106 N 123.054695 W
+BOBA.440	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.440	38.319106 N 123.054695 W
+BOBA.441	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.441	38.319106 N 123.054695 W
+BOBA.291	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.291	38.33345 N 123.059407 W
+BOBA.363	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.363	38.33345 N 123.059407 W
+BOBA.399	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.399	38.33345 N 123.059407 W
+BOBA.461	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.461	38.33345 N 123.059407 W
+BOBA.503	Sabatieria 	"USA: Bodega Bay, California "	18-Jul	BOBA.503	38.33345 N 123.059407 W
+SIMON.GV5	Sabatieria 	UK: Thames Estuary	8-Jun	SIMON.GV5	51.44535 N 0.370033333333333 E
+SIMON.CB2	Sabatieria 	UK: Thames Estuary	8-Jun	SIMON.CB2	51.5114167 N 0.594533333333333 E
+HB.NPRB.nem.27	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.27	71.2301 N 150.0835 W
+HB.NPRB.nem.30	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.30	71.2301 N 150.0835 W
+HB.NPRB.nem.39	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.39	71.2301 N 150.0835 W
+HB.NPRB.nem.4	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.4	71.2301 N 150.0835 W
+HB.NPRB.nem.50	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.50	71.2301 N 150.0835 W
+HB.NPRB.nem.74	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.74	71.2301 N 150.0835 W
+HB.NPRB.nem.114	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.114	71.2502 N 150.0835 W
+HB.NPRB.nem.115	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.115	71.2502 N 150.0835 W
+HB.NPRB.nem.121	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.121	71.2502 N 150.0835 W
+HB.NPRB.nem.130	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.130	71.2502 N 150.0835 W
+HB.NPRB.nem.133	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.133	71.2502 N 150.0835 W
+HB.NPRB.nem.142	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.142	71.2502 N 150.0835 W
+HB.NPRB.nem.143	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.143	71.2502 N 150.0835 W
+HB.NPRB.nem.144	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.144	71.2502 N 150.0835 W
+HB.NPRB.nem.90	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.90	71.2502 N 150.0835 W
+HB.NPRB.nem.91	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.91	71.2502 N 150.0835 W
+HB.NPRB.nem.158	Sabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.158	71.2835 N 150.0835 W
+SIMON.CB15	Sabatieria pulchra	UK: Thames Estuary	8-Jun	SIMON.CB15	51.5114167 N 0.594533333333333 E
+SIMON.TN8	Sabatieria longispinosa	UK: Mersey Estuary	8-Jul	SIMON.TN8	53.4422861 N 3.03710555555555 W
+SIMON.GV2	Sabatieria praedatrix	UK: Thames Estuary	8-Jun	SIMON.GV2	51.44535 N 0.370033333333333 E
+SIMON.GV9	Sabatieria pulchra	UK: Thames Estuary	8-Jun	SIMON.GV9	51.44535 N 0.370033333333333 E
+SIMON.SLH11	Sabatieria pulchra	UK: Thames Estuary	8-Jun	SIMON.SLH11	51.5057667 N 0.457583333333333 E
+SIMON.EG3	Sabatieria pulchra	UK: Mersey Estuary	8-Jul	SIMON.EG3	53.4190361 N 3.02308888888888 W
+SIMON.RF14	Sabatieria pulchra	UK: Mersey Estuary	8-Jul	SIMON.RF14	53.3700972 N 2.9944694444444444 W
+HB.NPRB.nem.11	Selachinematidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.11	71.2301 N 150.0835 W
+HB.NPRB.nem.65	Selachinematidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.65	71.2301 N 150.0835 W
+HB.NPRB.nem.108	Setosabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.108	71.2502 N 150.0835 W
+HB.NPRB.nem.124	Setosabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.124	71.2502 N 150.0835 W
+HB.NPRB.nem.131	Setosabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.131	71.2502 N 150.0835 W
+HB.NPRB.nem.134	Setosabatieria 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.134	71.2502 N 150.0835 W
+HB.NPRB.nem.1	Sphaerolaimus 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.1	71.2301 N 150.0835 W
+HB.NPRB.nem.56	Sphaerolaimus 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.56	71.2301 N 150.0835 W
+HB.NPRB.nem.73	Sphaerolaimus 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.73	71.2301 N 150.0835 W
+BOBA.385	Spirinia 	"USA: Bodega Bay, California "	18-Jul	BOBA.385	38.33345 N 123.059407 W
+SIMON.TN15	Stephanolaimus 	UK: Mersey Estuary	8-Jul	SIMON.TN15	53.4422861 N 3.03710555555555 W
+BOBA.246	Terschellingia 	"USA: Bodega Bay, California "	18-Jul	BOBA.246	38.31007 N 123.058875 W
+BOBA.250	Terschellingia 	"USA: Bodega Bay, California "	18-Jul	BOBA.250	38.31007 N 123.058875 W
+BOBA.256	Terschellingia 	"USA: Bodega Bay, California "	18-Jul	BOBA.256	38.31007 N 123.058875 W
+SIMON.CF18	Terschellingia 	UK: Thames Estuary	8-Jun	SIMON.CF18	51.4598639 N 0.431683333333333 E
+HB.NPRB.nem.128	Terschellingia 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.128	71.2502 N 150.0835 W
+ADS.NPRB.nem.42	Terschellingia 	"USA: Arctic, Chuckchi Sea"	2012	ADS.NPRB.nem.42	71.352499 N 162.231449 W
+SIMON.AH6	Terschellingia gourbaultae	UK: Thames Estuary	8-Jun	SIMON.AH6	51.4812667 N 0.64655 E
+SIMON.SLH10	Terschellingia longicaudata	UK: Thames Estuary	8-Jun	SIMON.SLH10	51.5057667 N 0.457583333333333 E
+SIMON.TN9	Thalassoalaimus	UK: Mersey Estuary	8-Jul	SIMON.TN9	53.4422861 N 3.03710555555555 W
+SIMON.SE13	Thalassoalaimus 	UK: Thames Estuary	8-Jun	SIMON.SE13	51.5295667 N 0.719616666666666 E
+HB.NPRB.nem.33	Thalassoalaimus 	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.33	71.2301 N 150.0835 W
+BOBA.346	Theristus 	"USA: Bodega Bay, California "	18-Jul	BOBA.346	38.33345 N 123.059407 W
+SIMON.HH2	Theristus 	UK: Mersey Estuary	8-Jul	SIMON.HH2	53.3109667 N 2.79513333333333 W
+SIMON.TN7	Theristus 	UK: Mersey Estuary	8-Jul	SIMON.TN7	53.4422861 N 3.03710555555555 W
+SIMON.AH12	Theristus pertenuis	UK: Thames Estuary	8-Jun	SIMON.AH12	51.4812667 N 0.64655 E
+BOBA.194	Thoracostoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.194	38.31007 N 123.058875 W
+BOBA.195	Thoracostoma 	"USA: Bodega Bay, California "	18-Jul	BOBA.195	38.31007 N 123.058875 W
+HB.NPRB.nem.21	Thoracostomopsidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.21	71.2301 N 150.0835 W
+HB.NPRB.nem.62	Thoracostomopsidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.62	71.2301 N 150.0835 W
+SIMON.SN4	Trichotheristus 	UK: Thames Estuary	8-Jun	SIMON.SN4	51.5278667 N 0.812116666666666 E
+SIMON.EB1	Trichotheristus mirabilis	UK: Mersey Estuary	8-Jul	SIMON.EB1	53.3215833 N 2.93981666666666 W
+SIMON.EB2	Trichotheristus mirabilis	UK: Mersey Estuary	8-Jul	SIMON.EB2	53.3215833 N 2.93981666666666 W
+SIMON.LA1	Trichotheristus mirabilis	UK: Mersey Estuary	8-Jul	SIMON.LA1	53.3266 N 2.85985 W
+SIMON.LA3	Trichotheristus mirabilis	UK: Mersey Estuary	8-Jul	SIMON.LA3	53.3266 N 2.85985 W
+SIMON.LA6	Trichotheristus mirabilis	UK: Mersey Estuary	8-Jul	SIMON.LA6	53.3266 N 2.85985 W
+SIMON.HB2	Tridentulus 	UK: Thames Estuary	8-Jun	SIMON.HB2	51.4875667 N 0.2304 W
+SIMON.CF14	Tripyloides 	UK: Thames Estuary	8-Jun	SIMON.CF14	51.4598639 N 0.431683333333333 E
+SIMON.WT6	Tripyloides 	UK: Thames Estuary	8-Jun	SIMON.WT6	51.4678472 N 0.290622222222222 E
+BOBA.105	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.105	38.319106 N 123.054695 W
+BOBA.110	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.110	38.319106 N 123.054695 W
+BOBA.113	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.113	38.319106 N 123.054695 W
+BOBA.117	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.117	38.319106 N 123.054695 W
+BOBA.119	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.119	38.319106 N 123.054695 W
+BOBA.123	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.123	38.319106 N 123.054695 W
+BOBA.125	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.125	38.319106 N 123.054695 W
+BOBA.126	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.126	38.319106 N 123.054695 W
+BOBA.131	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.131	38.319106 N 123.054695 W
+BOBA.420	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.420	38.319106 N 123.054695 W
+BOBA.505	Viscosia 	"USA: Bodega Bay, California "	18-Jul	BOBA.505	38.33345 N 123.059407 W
+SIMON.WW2	Viscosia 	UK: Thames Estuary	8-Jun	SIMON.WW2	51.4949 N 0.0511333333333333 E
+SIMON.CB6	Viscosia elegans	UK: Thames Estuary	8-Jun	SIMON.CB6	51.5114167 N 0.594533333333333 E
+HB.NPRB.nem.112	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.112	71.2502 N 150.0835 W
+HB.NPRB.nem.119	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.119	71.2502 N 150.0835 W
+HB.NPRB.nem.120	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.120	71.2502 N 150.0835 W
+HB.NPRB.nem.122	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.122	71.2502 N 150.0835 W
+HB.NPRB.nem.88	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.88	71.2502 N 150.0835 W
+HB.NPRB.nem.89	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.89	71.2502 N 150.0835 W
+HB.NPRB.nem.92	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.92	71.2502 N 150.0835 W
+HB.NPRB.nem.99	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.99	71.2502 N 150.0835 W
+HB.NPRB.nem.152	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.152	71.2835 N 150.0835 W
+HB.NPRB.nem.172	Xyalidae	"USA: Arctic, Beaufort Sea"	2012	HB.NPRB.nem.172	71.2835 N 150.0835 W

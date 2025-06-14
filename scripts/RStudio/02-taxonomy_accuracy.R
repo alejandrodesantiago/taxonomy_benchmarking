@@ -23,6 +23,8 @@ silva138_full_correct <- Reduce(function(x, y) merge(x, y, all=TRUE),
                                      silva_138_full_blast_1_hit_99, silva_138_full_blast_3_hit_90,
                                      silva_138_full_blast_10_hit_95, silva_138_full_naive_conf_70,
                                      silva_138_full_naive_conf_80, silva_138_full_naive_conf_90))
+silva138_full_correct$database <- "Database 1"
+
 silva138_full_taxa_correct_barplot <- barchart_taxonomy_accuracy(silva138_full_correct) +
   ylab("Number of Sequences\n") + xlab("\nSILVA REF") +
   theme(strip.background = element_blank(), strip.text.y = element_blank()) 
@@ -44,6 +46,8 @@ silva138_nr99_correct <- Reduce(function(x, y) merge(x, y, all=TRUE),
                                      silva_138_nr99_blast_1_hit_99, silva_138_nr99_blast_3_hit_90,
                                      silva_138_nr99_blast_10_hit_95, silva_138_nr99_naive_conf_70,
                                      silva_138_nr99_naive_conf_80, silva_138_nr99_naive_conf_90))
+silva138_nr99_correct$database <- "Database 2"
+
 silva138_nr99_taxa_correct_barplot <- barchart_taxonomy_accuracy(silva138_nr99_correct) + 
   xlab("\nSILVA NR99") +
   theme(strip.background = element_blank(), strip.text.y = element_blank())
@@ -63,6 +67,8 @@ silva138_nr99_fixed_correct <- Reduce(function(x, y) merge(x, y, all=TRUE),
                                            silva_138_fixed_blast_3_hit_90, silva_138_fixed_blast_1_hit_99,
                                            silva_138_fixed_blast_10_hit_95, silva_138_fixed_naive_conf_70,
                                            silva_138_fixed_naive_conf_80, silva_138_fixed_naive_conf_90))
+silva138_nr99_fixed_correct$database <- "Database 3"
+
 silva138_nr99_fixed_correct_barplot <- barchart_taxonomy_accuracy(silva138_nr99_fixed_correct) + 
   xlab("\nTaxa String QC") +
   theme(strip.background = element_blank(), strip.text.y = element_blank())
@@ -82,6 +88,7 @@ silva138_nr99_fixed_custom_seq_correct <- Reduce(function(x, y) merge(x, y, all=
                                                       silva_138_fixed_custom_seq_blast_1_hit_99, silva_138_fixed_custom_seq_blast_3_hit_90,
                                                       silva_138_fixed_custom_seq_blast_10_hit_95, silva_138_fixed_custom_seq_naive_conf_70,
                                                       silva_138_fixed_custom_seq_naive_conf_80, silva_138_fixed_custom_seq_naive_conf_90))
+silva138_nr99_fixed_correct$database <- "Database 4"
 silva138_nr99_fixed_custom_seq_taxa_correct_barplot <- barchart_taxonomy_accuracy(silva138_nr99_fixed_custom_seq_correct) + 
   xlab("\nAdded Ref Seqs") +
   theme(strip.background = element_blank(), strip.text.y = element_blank())
@@ -101,6 +108,7 @@ silva138_nr99_fixed_custom_seq_trimmed_correct <- Reduce(function(x, y) merge(x,
                                                               silva_138_fixed_custom_seq_trimmed_blast_1_hit_99, silva_138_fixed_custom_seq_trimmed_blast_3_hit_90,
                                                               silva_138_fixed_custom_seq_trimmed_blast_10_hit_95, silva_138_fixed_custom_seq_trimmed_naive_conf_70,
                                                               silva_138_fixed_custom_seq_trimmed_naive_conf_80, silva_138_fixed_custom_seq_trimmed_naive_conf_90))
+silva138_nr99_fixed_correct$database <- "Database 5"
 silva138_nr99_fixed_custom_seq_trimmed_taxa_correct_barplot <- barchart_taxonomy_accuracy(silva138_nr99_fixed_custom_seq_trimmed_correct) +
   xlab("\nV1/V2 Trimmed") 
 
@@ -110,5 +118,15 @@ final_figure_xx <- ggarrange(silva138_full_taxa_correct_barplot, silva138_nr99_t
                              silva138_nr99_fixed_custom_seq_trimmed_taxa_correct_barplot,
                              ncol = 5, nrow = 1, common.legend = T, legend = "top")
 
-ggsave(plot = final_figure_xx, filename = "results/RStudio/02-accuracy-barcharts/2022-04-12-visualization_taxonomy_accuracy_Genus.png", width = 20, height = 8.5, dpi = 300, device = "png", units = "in", bg = "white")
+ggsave(plot = final_figure_xx, filename = "results/RStudio/02-accuracy-barcharts/2025-01-01-visualization_taxonomy_accuracy_genus.png", width = 20, height = 8.5, dpi = 300, device = "png", units = "in", bg = "white")
+
+# Save table and use script to calculate accuracy and precision and script 05
+final_table_fn_tp <- Reduce(function(x, y) merge(x, y, all=TRUE), 
+                                                         list(silva138_full_correct,
+                                                              silva138_nr99_correct,
+                                                              silva138_nr99_fixed_correct, 
+                                                              silva138_nr99_fixed_custom_seq_correct,
+                                                              silva138_nr99_fixed_custom_seq_trimmed_correct))
+write_tsv(final_table_fn_tp, "results/RStudio/02-accuracy-barcharts/2025-01-01-dataframe-true-positive-false-negatives.tsv")
+
 

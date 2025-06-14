@@ -2,7 +2,7 @@ library(RColorBrewer)
 library(tidyverse)
 library(ggpubr)
 
-df <- read.table("results/accuracy_precision_r_ready.txt", header = T, sep = "\t", fill = T, allowEscapes = F)
+df <- read.table("results/RStudio/02-accuracy-barcharts/accuracy_precision_r_ready.txt", header = T, sep = "\t", fill = T, allowEscapes = F)
 df$taxonomy_level <- fct_rev(factor(df$taxonomy_level, c("genus", "family", "order")))
 colors <- brewer.pal(n = 8, name = "Dark2")
 
@@ -46,6 +46,6 @@ accuracy <- ggplot(df, aes(x=taxonomy_level, y=accuracy, color = parameter, grou
 
 final_figure_xx <- ggarrange(accuracy, precision, labels = c("A", "B"), 
                              ncol = 2, nrow = 1, common.legend = T, legend = "top")
-ggsave(plot = final_figure_xx, filename = "results/RStudio/2024-09-10-accuracy_precision.png", height = 12, width = 11, bg = "white", dpi = 300, device = "png", units = "in")
+ggsave(plot = final_figure_xx, filename = "results/RStudio/05-accuracy-precision-recall/2025-01-01-accuracy_precision.png", height = 12, width = 11, bg = "white", dpi = 300, device = "png", units = "in")
 
 

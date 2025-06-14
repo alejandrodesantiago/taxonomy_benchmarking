@@ -93,4 +93,4 @@ db.5_plot <- plot_pie_charts_accuracy(db.5_sab_marine, db.5_des_marine, db.5_chr
 final_figure_zz <- ggarrange(db.1_plot, db.2_plot, db.3_plot,db.4_plot, db.5_plot,
                              heights = c(1.5,1,1,1,1),
                              ncol = 1, nrow = 5, common.legend = T, legend = "top")
-ggsave(plot = final_figure_zz, filename = "results/RStudio/04-specific_taxa_accuracy/2022-04-21-visualization_accuracy_specific_taxa_dbs.png", width = 8.5, height = 11, dpi = 300, device = "png", units = "in", bg = "white")
+ggsave(plot = final_figure_zz, filename = "results/RStudio/04-specific_taxa_accuracy/2025-01-01-visualization_accuracy_specific_taxa_dbs.png", width = 8.5, height = 11, dpi = 300, device = "png", units = "in", bg = "white")
